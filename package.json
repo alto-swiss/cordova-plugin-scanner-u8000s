@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-scanner-u8000s",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-scanner-u8000s",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syware/cordova-plugin-scanner-u8000s.git"
+  },
+  "keywords": [
+    "cordova",
+    "scanner",
+    "u8000s"
+  ],
+  "author": "Syware Sàrl",
+  "license": "Apache 2.0",
+  "description": "Cordova Plugin to manage barcode scanner on U8000S"
+}
